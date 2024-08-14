@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Купити вентилятор Aigo AR12 ARGB з преміум ARGB підсвічуванням. Технічні характеристики та галерея фото.">
+    <meta name="keywords" content="Aigo AR12, вентилятор, ARGB, комп'ютерні запчастини, охолодження">
+    <title>Вентилятор Aigo AR12 ARGB</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+        header {
+            background-color: #0d0d0d;
+            color: #00ff00;
+            padding: 40px;
+            text-align: center;
+            border-bottom: 3px solid #00ff00;
+        }
+        header h1 {
+            font-size: 36px;
+            margin: 0;
+            text-transform: uppercase;
+        }
+        header p {
+            font-size: 18px;
+            margin-top: 10px;
+            color: #00ff00;
+        }
+        nav {
+            margin: 20px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #00ff00;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        nav a:hover {
+            color: #00cc00;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 30px;
+            background-color: #1c1c1c;
+            box-shadow: 0 4px 20px rgba(0, 255, 0, 0.1);
+            border-radius: 10px;
+            border: 1px solid #00ff00;
+        }
+        .product-img {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .product-img img {
+            width: 100%;
+            max-width: 450px;
+            border-radius: 10px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border: 2px solid #00ff00;
+        }
+        .product-img img:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 30px rgba(0, 255, 0, 0.2);
+        }
+        .section {
+            margin-top: 40px;
+        }
+        .section h2 {
+            color: #00ff00;
+            font-size: 28px;
+            margin-bottom: 15px;
+        }
+        .product-details ul, .gallery-images {
+            list-style: none;
+            padding: 0;
+        }
+        .product-details ul li, .gallery-images li {
+            margin-bottom: 12px;
+            font-size: 20px;
+        }
+        .gallery-images {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+        .gallery-images li {
+            width: 30%;
+            margin-bottom: 20px;
+        }
+        .gallery-images img {
+            width: 100%;
+            border-radius: 10px;
+            border: 2px solid #00ff00;
+            box-shadow: 0 0 15px rgba(0, 255, 0, 0.1);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        .gallery-images img:hover {
+            transform: scale(1.03);
+            box-shadow: 0 0 20px rgba(0, 255, 0, 0.2);
+        }
+        .btn-buy {
+            display: block;
+            width: 100%;
+            max-width: 280px;
+            margin: 40px auto;
+            padding: 15px;
+            background-color: #00ff00;
+            color: #121212;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 50px;
+            font-size: 20px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 255, 0, 0.1);
+        }
+        .btn-buy:hover {
+            background-color: #00cc00;
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 30px;
+            background-color: #0d0d0d;
+            border-top: 3px solid #00ff00;
+        }
+        footer p {
+            margin: 0;
+            color: #00ff00;
+            font-size: 18px;
+        }
+        @media (max-width: 768px) {
+            .gallery-images li {
+                width: 100%;
+            }
+            .product-img img {
+                max-width: 100%;
+            }
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Вентилятор Aigo AR12 ARGB</h1>
+        <p>Преміум охолодження з ARGB підсвічуванням</p>
+    </header>
+
+    <nav>
+        <a href="#product">Огляд продукту</a>
+        <a href="#specs">Характеристики</a>
+        <a href="#gallery">Галерея</a>
+    </nav>
+    
+    <div id="product" class="container">
+        <div class="product-img">
+            <img src="https://m.media-amazon.com/images/I/61z9HdtwsyL._AC_SX425_.jpg" alt="Вентилятор Aigo AR12 ARGB">
+        </div>
+        
+        <div class="product-details section">
+            <h2>Технічні характеристики:</h2>
+            <ul>
+                <li>Тип: Вентилятор для корпусу</li>
+                <li>Розмір: 120 мм</li>
+                <li>Тип підшипника: Гідродинамічний</li>
+                <li>Швидкість обертання: 1500 RPM</li>
+                <li>Макс. рівень шуму: 25 дБ</li>
+                <li>Підсвічування: ARGB</li>
+            </ul>
+        </div>
+
+        <div id="gallery" class="section">
+            <h2>Галерея:</h2>
+            <ul class="gallery-images">
+                <li><img src="https://m.media-amazon.com/images/I/61UXu4nXxAL._AC_SL1500_.jpg" alt="Aigo AR12 Front View"></li>
+                <li><img src="https://m.media-amazon.com/images/I/51+pZmVgUTL._AC_SL1000_.jpg" alt="Aigo AR12 Side View"></li>
+                <li><img src="https://m.media-amazon.com/images/I/61GVG1LDKbL._AC_SL1000_.jpg" alt="Aigo AR12 ARGB Lights"></li>
+            </ul>
+        </div>
+
+        <a href="https://www.olx.ua/d/uk/obyavlenie/ventilyatori-aigo-ar12-IDWtiDf.html?bs=olx_pro_listing" class="btn-buy">Купити</a>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Всі права захищені. Aigo AR12 ARGB</p>
+    </footer>
+</body>
+</html>
